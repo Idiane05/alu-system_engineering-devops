@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Comments 
+ssh -i ~/.ssh/school
